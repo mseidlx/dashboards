@@ -15,6 +15,7 @@ See these dashboards in a [visual display](https://explorer.nexeth.xyz/dashboard
 * [Ethstats](https://ethstats.dev)
 * [ethPandaOps Live Slot Visualizer](https://lab.ethpandaops.io/beacon/slot/live?network=mainnet)
 * [Ethereum Dashboard](https://ethereumdashboard.dev)
+* [growthepie](https://www.growthepie.com/ethereum-ecosystem/metrics)
 
 ## Zero Knowledge Proof Dashboards
 
@@ -62,7 +63,7 @@ See these dashboards in a [visual display](https://explorer.nexeth.xyz/dashboard
 * [Flippening Watch](https://www.flippening.watch/)
 * [Crypto Fees](https://cryptofees.info/)
 * [Money Settlers](https://money-movers.info/)
-* [ethismone](https://ethismoney.xyz)
+* [ethismoney](https://ethismoney.xyz)
 
 ## DeFi Dashboards
 
